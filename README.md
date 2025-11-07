@@ -1,9 +1,9 @@
 # Hello World ✨
 
-My name is Sarah and I am a frontend student based in Stockholm, Sweden. You have stumbled upon my rare GitHub account where you can see all of my PUBLIC repos. I have a blend of personal and school projects on here; feel free to take a look ;) I also have a portfolio where you can find out even more about me [here.](https://emmoth.me/)
+My name is Sarah and I am a ux-designer at Saab where i get to do design stuff. I also have a portfolio where you can find out even more about me [here.](https://emmoth.me/)
 
 ## Current status 📍
-I am interning as a UX designer with a focus on  user-research at Saab. 
+UX-designer  @ Saab
 
 ## Technologies 🖥️
 
